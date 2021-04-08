@@ -69,7 +69,7 @@ header .my-name a {
 }
 
 header.fixed .my-name a {
-  color:black;
+  color: #fff;
 }
 
 header .navbar ul {
@@ -94,13 +94,13 @@ header .navbar ul li a {
 }
 
 header.fixed .navbar ul li a {
-  color: black;
+  color: #fff;
 }
 
 header .navbar ul li a::before {
   content: "";
   height: 3px;
-  background-color: black;
+  background-color:black;
   width: 0;
   position: absolute;
   right: 0;
@@ -109,7 +109,7 @@ header .navbar ul li a::before {
 }
 
 header.fixed .navbar ul li a::before {
-  background-color: black;
+  background-color: #fff;
 }
 
 header .navbar ul li a:hover::before {
