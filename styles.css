@@ -185,8 +185,8 @@ header .navbar ul li a.active::before {
 }
 
 .skills .img img {
-  width: 600px;
-  height: 600px;
+  width: 400px;
+  height: 400px;
   display: block;
   margin-left: 120px;
 }
